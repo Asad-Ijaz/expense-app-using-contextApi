@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/expense-app-using-contextApi/static/css/main.87068169.chunk.css",
+    "main.js": "/expense-app-using-contextApi/static/js/main.a25104f2.chunk.js",
+    "main.js.map": "/expense-app-using-contextApi/static/js/main.a25104f2.chunk.js.map",
+    "runtime-main.js": "/expense-app-using-contextApi/static/js/runtime-main.3041c0f8.js",
+    "runtime-main.js.map": "/expense-app-using-contextApi/static/js/runtime-main.3041c0f8.js.map",
+    "static/js/2.5b6e9c53.chunk.js": "/expense-app-using-contextApi/static/js/2.5b6e9c53.chunk.js",
+    "static/js/2.5b6e9c53.chunk.js.map": "/expense-app-using-contextApi/static/js/2.5b6e9c53.chunk.js.map",
+    "static/js/3.ffac2cac.chunk.js": "/expense-app-using-contextApi/static/js/3.ffac2cac.chunk.js",
+    "static/js/3.ffac2cac.chunk.js.map": "/expense-app-using-contextApi/static/js/3.ffac2cac.chunk.js.map",
+    "index.html": "/expense-app-using-contextApi/index.html",
+    "static/css/main.87068169.chunk.css.map": "/expense-app-using-contextApi/static/css/main.87068169.chunk.css.map",
+    "static/js/2.5b6e9c53.chunk.js.LICENSE.txt": "/expense-app-using-contextApi/static/js/2.5b6e9c53.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3041c0f8.js",
+    "static/js/2.5b6e9c53.chunk.js",
+    "static/css/main.87068169.chunk.css",
+    "static/js/main.a25104f2.chunk.js"
+  ]
+}
